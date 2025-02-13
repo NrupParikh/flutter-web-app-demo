@@ -98364,30 +98364,30 @@ A.ye.prototype={
 bY(a){var s=t.l
 return new A.dY(new A.avR(this,A.bI(a,null,s).w.a.a,A.bI(a,null,s).w.a.b,300,392),null)}}
 A.avR.prototype={
-$0(){var s,r,q,p,o=this,n=null,m=$.eS(),l=o.d,k=A.cX(new A.W(B.l,A.df(B.a68,n,l),n),n,n),j=l-32,i=o.e,h=i-1,g=o.a,f=$.e
-if(f==null)f=$.e=B.e
-s=A.i(g).i("J.T")
-f=f.B(0,n,s).go
-f=f.gj(f)
+$0(){var s,r,q,p,o=this,n=null,m=$.eS(),l=o.d,k=A.cX(new A.W(B.l,A.df(B.a68,n,l),n),n,n),j=o.e,i=j-1,h=o.a,g=$.e
+if(g==null)g=$.e=B.e
+s=A.i(h).i("J.T")
+g=g.B(0,n,s).go
+g=g.gj(g)
 r=$.iU()
 q=t.t_
-f=A.cX(A.df(A.avC(B.I,n,B.f0,B.T,B.i6,B.I,new A.nb(B.ef,B.d1,B.cZ,A.a([r,r],q),n,n),i,f,l),h,j),n,n)
+g=A.cX(A.df(A.avC(B.I,n,B.f0,B.T,B.i6,B.I,new A.nb(B.ef,B.d1,B.cZ,A.a([r,r],q),n,n),j,g,l),i,l),n,n)
 r=$.e
 r=(r==null?$.e=B.e:r).B(0,n,s).id
 r=r.gj(r)
 p=t.p
-g=A.hq(B.bq,A.a([f,A.cX(A.df(A.avC(B.I,n,B.f0,B.T,B.i6,B.I,new A.nb(B.ef,B.d1,B.cZ,A.a([$.aPt(),$.aPu()],q),n,n),i,r,l),h,j),n,n),A.cX(A.df(B.Qg,i,l),n,n),A.cX(A.pF(n,A.dx(n,A.df(B.Jf,i+18,l),B.G,!1,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,new A.avQ(g),n,n,n),n,n,n,n,n,n),n,n)],p),B.a_,B.bv,n)
-i=$.e
-j=(i==null?$.e=B.e:i).B(0,n,s).k2
+h=A.hq(B.bq,A.a([g,A.cX(A.df(A.avC(B.I,n,B.f0,B.T,B.i6,B.I,new A.nb(B.ef,B.d1,B.cZ,A.a([$.aPt(),$.aPu()],q),n,n),j,r,l),i,l),n,n),A.cX(A.df(B.Qg,j,l),n,n),A.cX(A.pF(n,A.dx(n,A.df(B.Jf,j+18,l),B.G,!1,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,new A.avQ(h),n,n,n),n,n,n,n,n,n),n,n)],p),B.a_,B.bv,n)
+j=$.e
+j=(j==null?$.e=B.e:j).B(0,n,s).k2
 j=A.x("Goal: "+J.aQu(j.gj(j))+" Kcal",n,n,n,n,B.hy,n,n)
 i=$.e
 i=(i==null?$.e=B.e:i).B(0,n,s)
-h=i.k3
-f=i.k2
-f=f.gj(f)
+g=i.k3
+r=i.k2
+r=r.gj(r)
 i=i.k4
-h.sj(0,f-i.gj(i))
-h=A.df(A.ba(A.a([j,B.hs,A.x("Remaining: "+A.k(h.gj(h))+" Kcal",n,n,n,n,B.hy,n,n)],p),B.p,B.au,B.m),n,l)
+g.sj(0,r-i.gj(i))
+g=A.df(A.ba(A.a([j,B.hs,A.x("Remaining: "+A.k(g.gj(g))+" Kcal",n,n,n,n,B.hy,n,n)],p),B.p,B.au,B.m),n,l)
 j=$.e
 j=(j==null?$.e=B.e:j).B(0,n,s).go
 j=j.gj(j)
@@ -98400,9 +98400,9 @@ i=A.hq(B.bq,A.a([j,A.cX(A.avC(B.I,B.hM,B.f0,B.aU,B.i6,B.I,new A.nb(B.ef,B.d1,B.c
 q=$.e
 j=(q==null?$.e=B.e:q).B(0,n,s).ok
 j=A.x(A.k(j.gj(j))+" Kcal Consumed",n,n,n,n,B.hy,n,n)
-f=$.e
-f=(f==null?$.e=B.e:f).B(0,n,s).p1
-return A.by(n,A.eO(new A.W(B.l,A.bN(A.a([B.a7J,k,g,B.B,h,B.I8,i,B.I8,A.df(A.ba(A.a([j,B.hs,A.x(A.k(f.gj(f))+" Kcal Burned",n,n,n,n,B.hy,n,n)],p),B.p,B.au,B.m),n,l)],p),B.p,B.v,B.m),n),n,B.G,n,n,B.T),B.o,m,n,n,n,o.c,n,n,n,n,n,o.b)},
+r=$.e
+s=(r==null?$.e=B.e:r).B(0,n,s).p1
+return A.by(n,A.eO(new A.W(B.l,A.bN(A.a([B.a7J,k,h,B.B,g,B.I8,i,B.I8,A.df(A.ba(A.a([j,B.hs,A.x(A.k(s.gj(s))+" Kcal Burned",n,n,n,n,B.hy,n,n)],p),B.p,B.au,B.m),n,l)],p),B.p,B.v,B.m),n),n,B.G,n,n,B.T),B.o,m,n,n,n,o.c,n,n,n,n,n,o.b)},
 $S:103}
 A.avQ.prototype={
 $0(){var s=0,r=A.H(t.H),q=this,p,o,n
